@@ -1,4 +1,4 @@
-package com.javadeveloperzone;
+package com.javadeveloperzone.Controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
